@@ -1,4 +1,6 @@
 ![image](https://github.com/Varunmore/docker-container-setup/assets/96300001/2f34f25e-8392-438a-965f-1845513cadf1)
+![image](https://github.com/Varunmore/docker-container-setup/assets/96300001/aa7b6a60-365a-490b-a7af-2b7412102fdb)
+
 
 # Docker Container Setup
 
