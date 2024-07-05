@@ -1,6 +1,4 @@
 ![Docker + Bash Scripting](https://github.com/Varunmore/docker-container-setup/assets/96300001/219ee991-62f1-4e01-a45e-17cf1cd2b551)
-![Docker_+_Bash_Scripting-removebg-preview](https://github.com/Varunmore/docker-container-setup/assets/96300001/c36ad40a-39bb-4e3f-8ebe-ef917399a3dc)
-
 # Docker Container Setup
 
 Scripts for automated setup and deployment of Docker containers for web hosting and bash shell environments.
