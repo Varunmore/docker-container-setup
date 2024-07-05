@@ -32,14 +32,14 @@ Scripts for automated setup and deployment of Docker containers for web hosting 
 4. **Follow Prompts:**
   - Enter the purpose of the container, base image, and path to web files as prompted.
 
-### ***Usage***
+## ***Usage***
    - Web Hosting Containers:
        Access web applications deployed with Nginx, Node.js, or Apache at http://localhost:8080.
 
   - Bash Shell:
        Launch interactive bash shells within specified Docker base images.
 
-### ***Contributing***
+## ***Contributing***
 Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
@@ -52,11 +52,11 @@ Contributions are welcome! Please follow these steps:
 ### **License**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-### **Contact**
+## **Contact**
 For questions or support, please contact Varun More.
 
 
-### **Customization Tips**
+## **Customization Tips**
 
 - **Features:** Include specific features or capabilities of your setup script.
 - **Installation:** Ensure clarity on prerequisites and setup steps.
@@ -65,11 +65,11 @@ For questions or support, please contact Varun More.
 - **License:** Specify the license under which your project is distributed.
 - **Contact:** Provide a way for users to reach out for support or questions.
 
-### **Additional Sections**
+## **Additional Sections**
 
 Depending on your project's complexity and audience, you may want to include additional sections such as troubleshooting tips, FAQs, or advanced configuration options.
 
-### **Formatting and Presentation**
+## **Formatting and Presentation**
 
 - Use markdown syntax for headers, lists, code blocks, and links to keep your README clean and readable.
 - Use proper formatting (bold, italics, code blocks) to highlight important information.
